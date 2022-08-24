@@ -1,0 +1,3 @@
+* 编译原理学习
+** 学习笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/126514626][1338_龙书笔记_001_编译器的大概结构以及工作的基本流程]]
